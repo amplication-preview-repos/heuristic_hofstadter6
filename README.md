@@ -1,0 +1,1 @@
+# heuristic_hofstadter6
